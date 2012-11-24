@@ -5,9 +5,16 @@
 
 # Compiled Dynamic libraries
 *.so
-*.dylib
 
 # Compiled Static libraries
 *.lai
 *.la
 *.a
+
+# Visual Studio Stuff
+*.suo
+*.pdb
+*ipch/
+*Win32/
+*Debug/
+*Release/
